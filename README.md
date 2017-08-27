@@ -1,2 +1,2 @@
 # collab
-sample readme
+app - repo for the app
